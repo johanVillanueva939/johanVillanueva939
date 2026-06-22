@@ -1,5 +1,3 @@
-![Matrix](https://github.com/johanVillanueva939/johanVillanueva939/blob/main/walk-unscreen.gif?raw=true)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Johan%20David%20Villanueva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=60&descSize=18" width="100%" />
 </p>
@@ -259,26 +257,10 @@ Participated in the development of institutional web interfaces with focus on us
 
 ---
 
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johanVillanueva939&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
-</p>
-
----
-
 ## ◈ Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=johanVillanueva939&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D9540&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</p>
-
----
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/johanVillanueva939/johanVillanueva939/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
