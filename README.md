@@ -31,7 +31,7 @@
 
 > **I don't hand off loose screens.** I take the whole project, from the first Figma frame to the last deploy, and I answer for every piece.
 
-I'm Johan, a fullstack developer based in Armenia, Colombia. Frontend is my strength, but I don't stop there: I design the interface, write the API, secure it and ship it. Working this way removes half-finished handoffs between teams. There is one owner, and design decisions reach production intact.
+I'm Johan, a fullstack developer based in Quindío, Colombia. Frontend is my strength, but I don't stop there: I design the interface, write the API, secure it and ship it. Working this way removes half-finished handoffs between teams. There is one owner, and design decisions reach production intact.
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ I'm Johan, a fullstack developer based in Armenia, Colombia. Frontend is my stre
     </td>
     <td width="50%" valign="top">
       <sub>LOCATION</sub><br/>
-      Armenia, Quindío · CO · remote or hybrid
+      Quindío · CO · remote or hybrid
       <br/><br/>
       <sub>LANGUAGES</sub><br/>
       Native Spanish · English B2
