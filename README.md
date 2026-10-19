@@ -33,13 +33,6 @@
     <img src="https://img.shields.io/badge/Contact-%2B57%20310%20387%202727-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johanVillanueva939&color=7C3AED&style=flat-square&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/johanVillanueva939?style=flat-square&color=5B21B6&label=Followers&logo=github" />
-</p>
-
 ---
 
 ## ◈ About Me
@@ -48,7 +41,7 @@
 <tr>
 <td width="60%" valign="top">
 
-I am a **Frontend Engineer** based in Armenia, Colombia, with hands-on experience building production-grade web platforms from zero — covering the full cycle from UX design in Figma through component architecture, API integration, and cloud deployment.
+I am a **Frontend Engineer** based in Quindio, Colombia, with hands-on experience building production-grade web platforms from zero — covering the full cycle from UX design in Figma through component architecture, API integration, and cloud deployment.
 
 My core expertise lies in **React 19**, **TypeScript**, and **Tailwind CSS**, backed by solid backend knowledge using **Node.js**, **Express 5**, and **MySQL**. I design systems that are maintainable, performant, and visually consistent at scale.
 
@@ -66,7 +59,7 @@ I approach every project with an **engineering-first mindset**: structured archi
 ```yaml
 name: Johan David Villanueva Gallego
 role: Frontend Engineer
-location: Armenia, Quindío, CO
+location: Quindío, CO
 languages: [Spanish (Native), English (B2)]
 
 core_stack:
@@ -257,14 +250,6 @@ Participated in the development of institutional web interfaces with focus on us
 
 ---
 
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johanVillanueva939&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D9540&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</p>
-
----
-
 ## ◈ Current Focus
 
 ```yaml
@@ -274,9 +259,10 @@ current_focus:
     - SCSS design token systems and theming architectures
     - PostgreSQL + Prisma ORM for scalable relational backends
     - Web performance optimization (Core Web Vitals, bundle analysis)
+    - JAVA
+    - Spring Boot
 
   building:
-    - Personal portfolio site with React, TypeScript, and SCSS Modules
     - Custom design system with light/dark mode token architecture
     - HR Analytics Dashboard (Angular 17 · Tailwind · Chart.js · Prisma · Railway)
 
@@ -286,7 +272,7 @@ current_focus:
     - CI/CD pipelines with GitHub Actions
 
   open_to:
-    - Remote frontend or full stack engineering roles
+    - Remote FrontEnd or full stack engineering roles
     - Freelance product development projects
     - Open source contributions in React / TypeScript ecosystem
     - Mentorship and developer community collaboration
