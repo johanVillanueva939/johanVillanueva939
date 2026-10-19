@@ -1,307 +1,214 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Johan%20David%20Villanueva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=60&descSize=18" width="100%" />
-</p>
+<br/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%7C+React+%26+TypeScript;Full+Stack+Developer+%7C+Node.js+%26+Express;UI%2FUX+Engineer+%7C+Figma+to+Production;Clean+Code+Advocate+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="https://portfolio.jvillanuevagallego.workers.dev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/firma-white.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/firma-black.svg" />
+      <img src="./assets/firma-black.svg" alt="Johan Villanueva" width="340" />
+    </picture>
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Tecn%C3%B3logo%20en%20An%C3%A1lisis%20y%20Desarrollo%20de%20Software-SENA%202026-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/T%C3%A9cnico%20en%20Programaci%C3%B3n-SENA%202023-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=400&size=19&duration=3200&pause=1400&color=9C998F&center=true&vCenter=true&width=680&lines=Fullstack+Developer+%C2%B7+frontend+specialty;From+the+Figma+file+to+the+production+deploy;Projects+fall+apart+at+the+piece+nobody+owned.;I+own+every+piece." alt="Fullstack Developer · frontend specialty" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Armenia%2C%20Quind%C3%ADo%2C%20Colombia-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/English-B2%20Upper%20Intermediate-5B21B6?style=flat-square&logo=googletranslate&logoColor=white" />
+  <a href="https://portfolio.jvillanuevagallego.workers.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-141414?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/johan-david-villanueva-gallego-565ba9354"><img src="https://img.shields.io/badge/LINKEDIN-141414?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://portfolio.jvillanuevagallego.workers.dev/CV_Johan_Villanueva.pdf"><img src="https://img.shields.io/badge/CV-141414?style=for-the-badge" alt="CV" /></a>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20PROJECTS-A3864F?style=for-the-badge" alt="Open to projects" />
 </p>
 
-<p align="center">
-  <a href="mailto:jvillanuevagallego@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jvillanuevagallego-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/johanVillanueva939">
-    <img src="https://img.shields.io/badge/GitHub-johanVillanueva939-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="tel:+573103872727">
-    <img src="https://img.shields.io/badge/Contact-%2B57%20310%20387%202727-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<br/>
+
 ---
 
-## ◈ About Me
+### 01 &nbsp;·&nbsp; ABOUT
+
+> **I don't hand off loose screens.** I take the whole project, from the first Figma frame to the last deploy, and I answer for every piece.
+
+I'm Johan, a fullstack developer based in Armenia, Colombia. Frontend is my strength, but I don't stop there: I design the interface, write the API, secure it and ship it. Working this way removes half-finished handoffs between teams. There is one owner, and design decisions reach production intact.
 
 <table>
-<tr>
-<td width="60%" valign="top">
-
-I am a **Frontend Engineer** based in Quindio, Colombia, with hands-on experience building production-grade web platforms from zero — covering the full cycle from UX design in Figma through component architecture, API integration, and cloud deployment.
-
-My core expertise lies in **React 19**, **TypeScript**, and **Tailwind CSS**, backed by solid backend knowledge using **Node.js**, **Express 5**, and **MySQL**. I design systems that are maintainable, performant, and visually consistent at scale.
-
-I approach every project with an **engineering-first mindset**: structured architecture, clean code, and thoughtful UX. I have a strong attention to detail and a bias toward shipping real products rather than prototypes that never reach users.
-
-**Currently open to:**
-- 🟣 Frontend Engineer roles (Remote / Hybrid)
-- 🟣 Full Stack Developer positions
-- 🟣 Freelance product development
-- 🟣 Open Source collaboration
-
-</td>
-<td width="40%" valign="top">
-
-```yaml
-name: Johan David Villanueva Gallego
-role: Frontend Engineer
-location: Quindío, CO
-languages: [Spanish (Native), English (B2)]
-
-core_stack:
-  - React 19 + TypeScript
-  - Tailwind CSS v4 + SASS
-  - Node.js + Express 5
-  - MySQL + Sequelize ORM
-
-focus:
-  - Component-driven architecture
-  - Design systems & token theming
-  - REST API design & integration
-  - Cloud deployment (Cloudflare)
-
-available: true
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>ROLE</sub><br/>
+      Fullstack Developer, frontend specialty
+      <br/><br/>
+      <sub>EXPERIENCE</sub><br/>
+      Since 2023 · latest role: Lead Frontend Architect
+      <br/><br/>
+      <sub>CORE STACK</sub><br/>
+      React 19, TypeScript, Node.js, Express 5, MySQL
+    </td>
+    <td width="50%" valign="top">
+      <sub>LOCATION</sub><br/>
+      Armenia, Quindío · CO · remote or hybrid
+      <br/><br/>
+      <sub>LANGUAGES</sub><br/>
+      Native Spanish · English B2
+      <br/><br/>
+      <sub>EDUCATION</sub><br/>
+      Software Engineering, Universidad Iberoamericana (in progress)
+    </td>
+  </tr>
 </table>
 
 ---
 
-## ◈ Tech Stack
+### 02 &nbsp;·&nbsp; ONE OWNER, END TO END
 
-### Languages
+| | Layer | Tool | What I do |
+|:--:|:--|:--|:--|
+| **01** | Design | Figma | Wireframes, prototype and a component system before any code. |
+| **02** | Frontend | React · TypeScript | Fast, accessible, responsive interfaces, with motion where it helps. |
+| **03** | Backend | Node · Express | REST APIs with JWT, input validation, hashing and rate limiting. |
+| **04** | Deploy | Cloudflare Workers | Shipped to the edge, measured and maintained after launch. |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%"><h2>90%</h2><sub>less duplicated code thanks to an in-house component system</sub></td>
+    <td align="center" width="33%"><h2>4</h2><sub>integrations in production: QR, Excel, SendGrid and Notion</sub></td>
+    <td align="center" width="33%"><h2>2023</h2><sub>the year I started building software professionally</sub></td>
+  </tr>
+</table>
 
-### Frontend
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,sass,vite,figma&theme=dark" />
-</p>
+### 03 &nbsp;·&nbsp; WORK
 
-### Backend & Database
+#### EBA Platform &nbsp;<sub>FULLSTACK · IN PRODUCTION</sub>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize&theme=dark" />
-</p>
+Event management for SENA's apprentice welfare program: registrations, QR attendance, Excel reports and email notifications. I owned design, frontend, backend and deploy.
 
-### Tooling & Infrastructure
+| Piece | What it is |
+|:--|:--|
+| **Component library** | A UI component ecosystem built from scratch that cut code duplication by 90%. Includes a hybrid combobox with debounced search, keyboard navigation and ARIA markup, and a filter engine with persistence and chips. |
+| **Secure REST API** | Node.js and Express 5 in TypeScript: route and service layers, Sequelize models on MySQL, JWT auth, Bcrypt, Helmet and rate limiting. |
+| **Integrations** | QR attendance with `qrcode.react`, styled Excel reports with `xlsx-populate`, SendGrid emails and Notion sync. |
+| **Shipped to the edge** | Deployed on Cloudflare Workers with Wrangler. Virtualized lists with `react-virtualized` to handle large record volumes. |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,linux&theme=dark" />
-</p>
+#### [This portfolio](https://github.com/johanVillanueva939/Portfolio) &nbsp;<sub>DESIGN + CODE</sub>
 
-### Additional Libraries & APIs
+My own brand, design system and site: React, TypeScript, GSAP and a recruiter mode that cuts the animations and leaves a quick summary. Bilingual (ES / EN).
+
+---
+
+### 04 &nbsp;·&nbsp; STACK
+
+<table>
+  <tr>
+    <td valign="top" width="130"><sub><b>01 · DESIGN</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-141414?style=flat-square&logo=figma&logoColor=F7F6F2" alt="Figma" />
+      <img src="https://img.shields.io/badge/Prototyping-141414?style=flat-square" alt="Prototyping" />
+      <img src="https://img.shields.io/badge/Design%20systems-141414?style=flat-square" alt="Design systems" />
+      <img src="https://img.shields.io/badge/Accessibility-141414?style=flat-square" alt="Accessibility" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub><b>02 · FRONTEND</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/React%2019-141414?style=flat-square&logo=react&logoColor=F7F6F2" alt="React 19" />
+      <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=F7F6F2" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=F7F6F2" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-141414?style=flat-square&logo=html5&logoColor=F7F6F2" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS%20%C2%B7%20SCSS-141414?style=flat-square&logo=sass&logoColor=F7F6F2" alt="CSS · SCSS" />
+      <img src="https://img.shields.io/badge/Tailwind%20v4-141414?style=flat-square&logo=tailwindcss&logoColor=F7F6F2" alt="Tailwind CSS v4" />
+      <img src="https://img.shields.io/badge/GSAP-141414?style=flat-square&logo=gsap&logoColor=F7F6F2" alt="GSAP" />
+      <img src="https://img.shields.io/badge/MUI-141414?style=flat-square&logo=mui&logoColor=F7F6F2" alt="MUI" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub><b>03 · BACKEND</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=F7F6F2" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express%205-141414?style=flat-square&logo=express&logoColor=F7F6F2" alt="Express 5" />
+      <img src="https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=F7F6F2" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Sequelize-141414?style=flat-square&logo=sequelize&logoColor=F7F6F2" alt="Sequelize" />
+      <img src="https://img.shields.io/badge/JWT-141414?style=flat-square&logo=jsonwebtokens&logoColor=F7F6F2" alt="JWT" />
+      <img src="https://img.shields.io/badge/Bcrypt%20%C2%B7%20Helmet-141414?style=flat-square" alt="Bcrypt · Helmet" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub><b>04 · DEPLOY</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cloudflare%20Workers-141414?style=flat-square&logo=cloudflareworkers&logoColor=F7F6F2" alt="Cloudflare Workers" />
+      <img src="https://img.shields.io/badge/Vite-141414?style=flat-square&logo=vite&logoColor=F7F6F2" alt="Vite" />
+      <img src="https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=F7F6F2" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=F7F6F2" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Axios-141414?style=flat-square&logo=axios&logoColor=F7F6F2" alt="Axios" />
+    </td>
+  </tr>
+</table>
+
+<sub>LEARNING NOW &nbsp;·&nbsp; Java · Spring Boot · PostgreSQL + Prisma · Vitest + React Testing Library · GitHub Actions</sub>
+
+---
+
+### 05 &nbsp;·&nbsp; TRACK RECORD
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <sub><b>EXPERIENCE</b></sub>
+      <br/><br/>
+      <sub>OCT 2025 — MAR 2026</sub><br/>
+      <b>Lead Frontend Architect</b><br/>
+      EBA — Eventos Bienestar del Aprendiz
+      <br/><br/>
+      <sub>2023 — 2025</sub><br/>
+      <b>Frontend Developer</b><br/>
+      SENA — Commerce &amp; Tourism
+    </td>
+    <td valign="top" width="50%">
+      <sub><b>EDUCATION</b></sub>
+      <br/><br/>
+      <sub>IN PROGRESS</sub><br/>
+      <b>Software Engineering</b><br/>
+      Universidad Iberoamericana
+      <br/><br/>
+      <sub>MAR 2026</sub><br/>
+      <b>Software Analysis &amp; Development</b><br/>
+      SENA · Associate degree
+      <br/><br/>
+      <sub>NOV 2023</sub><br/>
+      <b>Software Programming Technician</b><br/>
+      SENA
+    </td>
+  </tr>
+</table>
+
+---
+
+### 06 &nbsp;·&nbsp; ACTIVITY
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=johanVillanueva939&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&bg_color=141414&title_color=F7F6F2&text_color=9C998F&icon_color=A3864F" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanVillanueva939&layout=compact&langs_count=6&hide_border=true&border_radius=0&bg_color=141414&title_color=F7F6F2&text_color=9C998F" alt="Top languages" />
+</p>
 
-| Category | Tools |
-|---|---|
-| UI / Component | `MUI (Material UI)` · `React Icons` · `react-virtualized` |
-| HTTP & Auth | `Axios` · `Fetch API` · `JWT` · `Bcrypt` · `Helmet` |
-| Utilities | `qrcode.react` · `xlsx` · `xlsx-populate` · `DayPilot` |
-| Services | `SendGrid` · `Notion API` · `Cloudflare Workers (Wrangler)` |
-| Package Managers | `npm` · `pnpm` |
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=johanVillanueva939&hide_border=true&border_radius=0&background=141414&stroke=242422&ring=A3864F&fire=A3864F&currStreakNum=F7F6F2&sideNums=F7F6F2&currStreakLabel=F7F6F2&sideLabels=9C998F&dates=9C998F" alt="GitHub streak" />
 </p>
 
 ---
 
-## ◈ Featured Projects
+### 07 &nbsp;·&nbsp; CONTACT
 
-<details>
-<summary><b>⬡ EBA — Plataforma de Gestión de Eventos (Fullstack)</b></summary>
+**Have a project in mind?** Tell me what you need to build. I reply within 24 to 48 hours.
+
+<p>
+  <a href="https://portfolio.jvillanuevagallego.workers.dev/#contacto"><img src="https://img.shields.io/badge/WRITE%20TO%20ME-141414?style=for-the-badge" alt="Write to me" /></a>
+  <a href="https://www.linkedin.com/in/johan-david-villanueva-gallego-565ba9354"><img src="https://img.shields.io/badge/LINKEDIN-141414?style=for-the-badge" alt="LinkedIn" /></a>
+</p>
 
 <br/>
 
-> A complete, production-deployed event management platform built for SENA's institutional welfare program. Handles event registration, QR-based attendance control, Excel reporting, and transactional email notifications — all designed and engineered from scratch.
-
-<br/>
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React 19 · TypeScript · Tailwind CSS v4 · Node.js · Express 5 · MySQL · Sequelize · JWT · Figma |
-| **Deployment** | Cloudflare Workers via Wrangler |
-| **Performance** | List virtualization with `react-virtualized` for high-volume data rendering |
-| **Security** | JWT authentication · Bcrypt password hashing · Helmet headers · `express-rate-limit` |
-| **Impact** | Reduced UI code duplication by **90%** via a reusable component ecosystem designed from zero |
-| **Scope** | Full cycle: UX research → Figma design → Frontend → Backend → Database → Deployment |
-
-<br/>
-
-**Engineering Highlights:**
-
-- Architected a **unified design system** with CSS custom properties and Tailwind configuration, ensuring cross-product visual consistency and zero design drift at scale.
-- Engineered a **dynamic filter engine** with localStorage persistence and chip-based visual feedback — built for speed and UX clarity across hundreds of simultaneous events.
-- Implemented a **hybrid combobox component** with optimized debounced search, keyboard navigation, and accessible ARIA markup from scratch — no third-party dependency.
-- Built the **entire backend API** with Express 5 and TypeScript: structured route layer, service abstraction, Sequelize ORM models with relational constraints, and a middleware chain covering auth, security headers, and rate limiting.
-- Integrated **QR code generation** per registration, **Excel export** with styled headers via `xlsx-populate`, and **SendGrid** transactional emails with dynamic templates.
-
-</details>
-
----
-
-## ◈ Experience
-
-### Lead Frontend Architect · EBA – Eventos Bienestar del Aprendiz
-**Oct 2025 – Mar 2026 · Armenia, Quindío · Apprenticeship (Etapa Práctica)**
-
-Led the end-to-end design and engineering of a fullstack institutional platform from concept to production. Owned the complete technical lifecycle: UX architecture, frontend implementation, backend API, database modeling, and cloud deployment.
-
-- Designed the full product interface in Figma — from wireframes and user flows through high-fidelity prototypes and a documented component library
-- Built the frontend with React 19, TypeScript, and Tailwind CSS v4, implementing advanced UI patterns: dynamic filters with persistence, hybrid comboboxes, real-time schedule validators, and QR-based attendance flows
-- Developed the REST API backend with Node.js, Express 5, and TypeScript — including JWT auth, Bcrypt hashing, Helmet security headers, and rate limiting middleware
-- Modeled and implemented the relational database layer using Sequelize ORM on MySQL, with full entity relationships for events, users, and registrations
-- Integrated third-party services: SendGrid (emails), Notion API (content sync), `qrcode.react` (dynamic QR), `xlsx-populate` (styled Excel exports)
-- Deployed the frontend on Cloudflare Workers with Wrangler; applied `react-virtualized` for performant rendering under high data volumes
-
-<p>
-  <img src="https://img.shields.io/badge/React%2019-20124D?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-20124D?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-20124D?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Node.js-20124D?style=flat-square&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express%205-20124D?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-20124D?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Sequelize-20124D?style=flat-square&logo=sequelize&logoColor=52B0E7" />
-  <img src="https://img.shields.io/badge/Cloudflare%20Workers-20124D?style=flat-square&logo=cloudflare&logoColor=F6821F" />
-  <img src="https://img.shields.io/badge/Figma-20124D?style=flat-square&logo=figma&logoColor=F24E1E" />
-</p>
-
----
-
-### Frontend Developer · SENA – Centro de Comercio y Turismo
-**2023 – 2025 · Armenia, Quindío**
-
-Participated in the development of institutional web interfaces with focus on usability, responsiveness, and performance. Contributed to the improvement of internal processes and user experience for applications in the Commerce and Tourism sector.
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-20124D?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-20124D?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-20124D?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-20124D?style=flat-square&logo=googlechrome&logoColor=white" />
-</p>
-
----
-
-## ◈ Achievements
-
 <p align="center">
-
-| 🏆 Recognition | Details |
-|:---:|:---|
-| **Production Platform Lead** | Sole engineer and designer behind EBA — a fully deployed institutional platform serving SENA's Quindío regional events program |
-| **90% Code Duplication Reduction** | Designed and implemented a reusable component ecosystem from zero, standardizing the entire EBA product suite |
-| **Full-Cycle Ownership** | Delivered design → frontend → backend → database → deployment independently, covering every engineering layer |
-| **Zero-Dependency UI Patterns** | Engineered advanced components (hybrid combobox, dynamic filters, real-time validators) without third-party UI libraries |
-| **B2 English Proficiency** | Certified upper-intermediate English — capable of full professional communication in international engineering environments |
-| **Dual SENA Certification** | Graduated as Technologist in Software Analysis & Development (2026) and Technician in Software Programming (2023) |
-
-</p>
-
----
-
-## ◈ Certifications
-
-### 🏛️ SENA – Servicio Nacional de Aprendizaje
-
-<p>
-  <img src="https://img.shields.io/badge/Tecn%C3%B3logo%20en%20An%C3%A1lisis%20y%20Desarrollo%20de%20Software-May%202026-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/T%C3%A9cnico%20en%20Programaci%C3%B3n%20de%20Software-Nov%202023-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### 🤖 Robotics
-
-<p>
-  <img src="https://img.shields.io/badge/Nivel%201%20de%20Rob%C3%B3tica-I.E%20Ciudad%20Dorada%20%E2%80%A2%202022-4C1D95?style=for-the-badge&logo=robotframework&logoColor=white" />
-</p>
-
----
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johanVillanueva939&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanVillanueva939&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=C4B5FD" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=johanVillanueva939&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
-
----
-
-## ◈ Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Advanced React patterns (compound components, render props, context composition)
-    - SCSS design token systems and theming architectures
-    - PostgreSQL + Prisma ORM for scalable relational backends
-    - Web performance optimization (Core Web Vitals, bundle analysis)
-    - JAVA
-    - Spring Boot
-
-  building:
-    - Custom design system with light/dark mode token architecture
-    - HR Analytics Dashboard (Angular 17 · Tailwind · Chart.js · Prisma · Railway)
-
-  exploring:
-    - Edge computing with Cloudflare Workers and Durable Objects
-    - Component testing with Vitest and React Testing Library
-    - CI/CD pipelines with GitHub Actions
-
-  open_to:
-    - Remote FrontEnd or full stack engineering roles
-    - Freelance product development projects
-    - Open source contributions in React / TypeScript ecosystem
-    - Mentorship and developer community collaboration
-```
-
----
-
-## ◈ Connect
-
-<p align="center">
-  <a href="mailto:jvillanuevagallego@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jvillanuevagallego%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/johanVillanueva939">
-    <img src="https://img.shields.io/badge/GitHub-johanVillanueva939-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="tel:+573103872727">
-    <img src="https://img.shields.io/badge/Phone-%2B57%20310%20387%202727-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Clean code is not written by following a set of rules — it is crafted through discipline, taste, and relentless iteration."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
+  <sub>PROJECTS FALL APART AT THE PIECE NOBODY OWNED. &nbsp;<b>I OWN EVERY PIECE.</b></sub>
 </p>
